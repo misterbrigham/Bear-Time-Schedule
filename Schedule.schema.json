@@ -1,0 +1,96 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/misterbrigham/Bear-Time-Schedule/main/Schedule.schema.json",
+  "title": "Bear Time schedule configuration",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "configurationVersion",
+    "updatedAt",
+    "timeZoneIdentifier",
+    "bellOffsetSeconds",
+    "metadata",
+    "dateAssignments",
+    "dayTypes"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "configurationVersion": { "type": "string", "minLength": 1 },
+    "updatedAt": { "type": "string", "format": "date-time" },
+    "timeZoneIdentifier": { "type": "string", "minLength": 1 },
+    "bellOffsetSeconds": { "type": "integer" },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "notes"],
+      "properties": {
+        "status": { "type": "string", "minLength": 1 },
+        "notes": { "type": "string" }
+      }
+    },
+    "dateAssignments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["date", "dayType"],
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "dayType": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "dayTypes": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/dayType" }
+    }
+  },
+  "$defs": {
+    "event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "canonicalName", "start", "end"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "canonicalName": { "type": "string", "minLength": 1 },
+        "start": { "type": "string", "pattern": "^(?:[01][0-9]|2[0-3]):[0-5][0-9]$" },
+        "end": { "type": "string", "pattern": "^(?:[01][0-9]|2[0-3]):[0-5][0-9]$" }
+      }
+    },
+    "eventArray": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/event" }
+    },
+    "lunchBranches": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["aLunch", "bLunch"],
+      "properties": {
+        "aLunch": { "$ref": "#/$defs/eventArray" },
+        "bLunch": { "$ref": "#/$defs/eventArray" }
+      }
+    },
+    "dayType": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "displayName", "isStudentDay", "sharedEvents"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "displayName": { "type": "string", "minLength": 1 },
+        "isStudentDay": { "type": "boolean" },
+        "schoolHours": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["start", "end"],
+          "properties": {
+            "start": { "type": "string", "pattern": "^(?:[01][0-9]|2[0-3]):[0-5][0-9]$" },
+            "end": { "type": "string", "pattern": "^(?:[01][0-9]|2[0-3]):[0-5][0-9]$" }
+          }
+        },
+        "sharedEvents": { "$ref": "#/$defs/eventArray" },
+        "lunchBranches": { "$ref": "#/$defs/lunchBranches" }
+      }
+    }
+  }
+}

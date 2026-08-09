@@ -1,0 +1,631 @@
+{
+  "schemaVersion": 1,
+  "configurationVersion": "2026-27-calendar-2",
+  "updatedAt": "2026-08-02T14:05:00Z",
+  "timeZoneIdentifier": "America/New_York",
+  "bellOffsetSeconds": 0,
+  "metadata": {
+    "status": "2026-2027-production-calendar",
+    "notes": "Bell patterns and Black/Gold assignments are confirmed for 2026-2027. June dates may change based on emergency-day usage."
+  },
+  "dateAssignments": [
+    { "date": "2026-08-25", "dayType": "teacher-workshop" },
+    { "date": "2026-08-26", "dayType": "teacher-workshop" },
+    { "date": "2026-08-27", "dayType": "teacher-workshop" },
+    { "date": "2026-08-31", "dayType": "black-day" },
+    { "date": "2026-09-01", "dayType": "gold-day" },
+    { "date": "2026-09-02", "dayType": "black-day" },
+    { "date": "2026-09-03", "dayType": "gold-day" },
+    { "date": "2026-09-04", "dayType": "black-day" },
+    { "date": "2026-09-07", "dayType": "holiday" },
+    { "date": "2026-09-08", "dayType": "gold-day" },
+    { "date": "2026-09-09", "dayType": "black-day" },
+    { "date": "2026-09-10", "dayType": "gold-day" },
+    { "date": "2026-09-11", "dayType": "black-day" },
+    { "date": "2026-09-14", "dayType": "gold-day" },
+    { "date": "2026-09-15", "dayType": "black-day" },
+    { "date": "2026-09-16", "dayType": "gold-day" },
+    { "date": "2026-09-17", "dayType": "black-day" },
+    { "date": "2026-09-18", "dayType": "gold-day" },
+    { "date": "2026-09-21", "dayType": "black-day" },
+    { "date": "2026-09-22", "dayType": "gold-day" },
+    { "date": "2026-09-23", "dayType": "black-day" },
+    { "date": "2026-09-24", "dayType": "gold-day" },
+    { "date": "2026-09-25", "dayType": "black-day" },
+    { "date": "2026-09-28", "dayType": "gold-day" },
+    { "date": "2026-09-29", "dayType": "black-day" },
+    { "date": "2026-09-30", "dayType": "early-release" },
+    { "date": "2026-10-01", "dayType": "black-day" },
+    { "date": "2026-10-02", "dayType": "gold-day" },
+    { "date": "2026-10-05", "dayType": "black-day" },
+    { "date": "2026-10-06", "dayType": "gold-day" },
+    { "date": "2026-10-07", "dayType": "black-day" },
+    { "date": "2026-10-08", "dayType": "gold-day" },
+    { "date": "2026-10-09", "dayType": "teacher-workshop" },
+    { "date": "2026-10-12", "dayType": "holiday" },
+    { "date": "2026-10-13", "dayType": "black-day" },
+    { "date": "2026-10-14", "dayType": "gold-day" },
+    { "date": "2026-10-15", "dayType": "black-day" },
+    { "date": "2026-10-16", "dayType": "gold-day" },
+    { "date": "2026-10-19", "dayType": "black-day" },
+    { "date": "2026-10-20", "dayType": "gold-day" },
+    { "date": "2026-10-21", "dayType": "black-day" },
+    { "date": "2026-10-22", "dayType": "gold-day" },
+    { "date": "2026-10-23", "dayType": "black-day" },
+    { "date": "2026-10-26", "dayType": "gold-day" },
+    { "date": "2026-10-27", "dayType": "black-day" },
+    { "date": "2026-10-28", "dayType": "early-release" },
+    { "date": "2026-10-29", "dayType": "black-day" },
+    { "date": "2026-10-30", "dayType": "gold-day" },
+    { "date": "2026-11-02", "dayType": "black-day" },
+    { "date": "2026-11-03", "dayType": "gold-day" },
+    { "date": "2026-11-04", "dayType": "black-day" },
+    { "date": "2026-11-05", "dayType": "gold-day" },
+    { "date": "2026-11-06", "dayType": "black-day" },
+    { "date": "2026-11-09", "dayType": "gold-day" },
+    { "date": "2026-11-10", "dayType": "black-day" },
+    { "date": "2026-11-11", "dayType": "holiday" },
+    { "date": "2026-11-12", "dayType": "gold-day" },
+    { "date": "2026-11-13", "dayType": "black-day" },
+    { "date": "2026-11-16", "dayType": "gold-day" },
+    { "date": "2026-11-17", "dayType": "black-day" },
+    { "date": "2026-11-18", "dayType": "gold-day" },
+    { "date": "2026-11-19", "dayType": "black-day" },
+    { "date": "2026-11-20", "dayType": "gold-day" },
+    { "date": "2026-11-23", "dayType": "black-day" },
+    { "date": "2026-11-24", "dayType": "gold-day" },
+    { "date": "2026-11-25", "dayType": "staff-in-service-comp-day" },
+    { "date": "2026-11-26", "dayType": "holiday" },
+    { "date": "2026-11-27", "dayType": "vacation" },
+    { "date": "2026-11-30", "dayType": "black-day" },
+    { "date": "2026-12-01", "dayType": "gold-day" },
+    { "date": "2026-12-02", "dayType": "black-day" },
+    { "date": "2026-12-03", "dayType": "gold-day" },
+    { "date": "2026-12-04", "dayType": "black-day" },
+    { "date": "2026-12-07", "dayType": "gold-day" },
+    { "date": "2026-12-08", "dayType": "black-day" },
+    { "date": "2026-12-09", "dayType": "early-release" },
+    { "date": "2026-12-10", "dayType": "black-day" },
+    { "date": "2026-12-11", "dayType": "gold-day" },
+    { "date": "2026-12-14", "dayType": "black-day" },
+    { "date": "2026-12-15", "dayType": "gold-day" },
+    { "date": "2026-12-16", "dayType": "black-day" },
+    { "date": "2026-12-17", "dayType": "gold-day" },
+    { "date": "2026-12-18", "dayType": "black-day" },
+    { "date": "2026-12-21", "dayType": "gold-day" },
+    { "date": "2026-12-22", "dayType": "early-release" },
+    { "date": "2026-12-23", "dayType": "vacation" },
+    { "date": "2026-12-24", "dayType": "vacation" },
+    { "date": "2026-12-25", "dayType": "holiday" },
+    { "date": "2026-12-28", "dayType": "vacation" },
+    { "date": "2026-12-29", "dayType": "vacation" },
+    { "date": "2026-12-30", "dayType": "vacation" },
+    { "date": "2026-12-31", "dayType": "vacation" },
+    { "date": "2027-01-01", "dayType": "holiday" },
+    { "date": "2027-01-04", "dayType": "gold-day" },
+    { "date": "2027-01-05", "dayType": "black-day" },
+    { "date": "2027-01-06", "dayType": "gold-day" },
+    { "date": "2027-01-07", "dayType": "black-day" },
+    { "date": "2027-01-08", "dayType": "gold-day" },
+    { "date": "2027-01-11", "dayType": "black-day" },
+    { "date": "2027-01-12", "dayType": "gold-day" },
+    { "date": "2027-01-13", "dayType": "black-day" },
+    { "date": "2027-01-14", "dayType": "gold-day" },
+    { "date": "2027-01-15", "dayType": "black-day" },
+    { "date": "2027-01-18", "dayType": "holiday" },
+    { "date": "2027-01-19", "dayType": "gold-day" },
+    { "date": "2027-01-20", "dayType": "black-day" },
+    { "date": "2027-01-21", "dayType": "gold-day" },
+    { "date": "2027-01-22", "dayType": "black-day" },
+    { "date": "2027-01-25", "dayType": "gold-day" },
+    { "date": "2027-01-26", "dayType": "black-day" },
+    { "date": "2027-01-27", "dayType": "early-release" },
+    { "date": "2027-01-28", "dayType": "black-day" },
+    { "date": "2027-01-29", "dayType": "gold-day" },
+    { "date": "2027-02-01", "dayType": "black-day" },
+    { "date": "2027-02-02", "dayType": "gold-day" },
+    { "date": "2027-02-03", "dayType": "black-day" },
+    { "date": "2027-02-04", "dayType": "gold-day" },
+    { "date": "2027-02-05", "dayType": "black-day" },
+    { "date": "2027-02-08", "dayType": "gold-day" },
+    { "date": "2027-02-09", "dayType": "black-day" },
+    { "date": "2027-02-10", "dayType": "gold-day" },
+    { "date": "2027-02-11", "dayType": "black-day" },
+    { "date": "2027-02-12", "dayType": "gold-day" },
+    { "date": "2027-02-15", "dayType": "holiday" },
+    { "date": "2027-02-16", "dayType": "vacation" },
+    { "date": "2027-02-17", "dayType": "vacation" },
+    { "date": "2027-02-18", "dayType": "vacation" },
+    { "date": "2027-02-19", "dayType": "vacation" },
+    { "date": "2027-02-22", "dayType": "black-day" },
+    { "date": "2027-02-23", "dayType": "gold-day" },
+    { "date": "2027-02-24", "dayType": "black-day" },
+    { "date": "2027-02-25", "dayType": "gold-day" },
+    { "date": "2027-02-26", "dayType": "black-day" },
+    { "date": "2027-03-01", "dayType": "gold-day" },
+    { "date": "2027-03-02", "dayType": "black-day" },
+    { "date": "2027-03-03", "dayType": "gold-day" },
+    { "date": "2027-03-04", "dayType": "black-day" },
+    { "date": "2027-03-05", "dayType": "winter-carnival-early-release" },
+    { "date": "2027-03-08", "dayType": "black-day" },
+    { "date": "2027-03-09", "dayType": "gold-day" },
+    { "date": "2027-03-10", "dayType": "black-day" },
+    { "date": "2027-03-11", "dayType": "gold-day" },
+    { "date": "2027-03-12", "dayType": "teacher-workshop" },
+    { "date": "2027-03-15", "dayType": "black-day" },
+    { "date": "2027-03-16", "dayType": "gold-day" },
+    { "date": "2027-03-17", "dayType": "black-day" },
+    { "date": "2027-03-18", "dayType": "gold-day" },
+    { "date": "2027-03-19", "dayType": "black-day" },
+    { "date": "2027-03-22", "dayType": "gold-day" },
+    { "date": "2027-03-23", "dayType": "black-day" },
+    { "date": "2027-03-24", "dayType": "early-release" },
+    { "date": "2027-03-25", "dayType": "black-day" },
+    { "date": "2027-03-26", "dayType": "gold-day" },
+    { "date": "2027-03-29", "dayType": "black-day" },
+    { "date": "2027-03-30", "dayType": "gold-day" },
+    { "date": "2027-03-31", "dayType": "black-day" },
+    { "date": "2027-04-01", "dayType": "gold-day" },
+    { "date": "2027-04-02", "dayType": "black-day" },
+    { "date": "2027-04-05", "dayType": "gold-day" },
+    { "date": "2027-04-06", "dayType": "black-day" },
+    { "date": "2027-04-07", "dayType": "gold-day" },
+    { "date": "2027-04-08", "dayType": "black-day" },
+    { "date": "2027-04-09", "dayType": "gold-day" },
+    { "date": "2027-04-12", "dayType": "black-day" },
+    { "date": "2027-04-13", "dayType": "gold-day" },
+    { "date": "2027-04-14", "dayType": "black-day" },
+    { "date": "2027-04-15", "dayType": "gold-day" },
+    { "date": "2027-04-16", "dayType": "staff-in-service-comp-day" },
+    { "date": "2027-04-19", "dayType": "holiday" },
+    { "date": "2027-04-20", "dayType": "vacation" },
+    { "date": "2027-04-21", "dayType": "vacation" },
+    { "date": "2027-04-22", "dayType": "vacation" },
+    { "date": "2027-04-23", "dayType": "vacation" },
+    { "date": "2027-04-26", "dayType": "black-day" },
+    { "date": "2027-04-27", "dayType": "gold-day" },
+    { "date": "2027-04-28", "dayType": "black-day" },
+    { "date": "2027-04-29", "dayType": "gold-day" },
+    { "date": "2027-04-30", "dayType": "black-day" },
+    { "date": "2027-05-03", "dayType": "gold-day" },
+    { "date": "2027-05-04", "dayType": "black-day" },
+    { "date": "2027-05-05", "dayType": "gold-day" },
+    { "date": "2027-05-06", "dayType": "black-day" },
+    { "date": "2027-05-07", "dayType": "gold-day" },
+    { "date": "2027-05-10", "dayType": "black-day" },
+    { "date": "2027-05-11", "dayType": "gold-day" },
+    { "date": "2027-05-12", "dayType": "early-release" },
+    { "date": "2027-05-13", "dayType": "gold-day" },
+    { "date": "2027-05-14", "dayType": "black-day" },
+    { "date": "2027-05-17", "dayType": "gold-day" },
+    { "date": "2027-05-18", "dayType": "black-day" },
+    { "date": "2027-05-19", "dayType": "gold-day" },
+    { "date": "2027-05-20", "dayType": "black-day" },
+    { "date": "2027-05-21", "dayType": "gold-day" },
+    { "date": "2027-05-24", "dayType": "black-day" },
+    { "date": "2027-05-25", "dayType": "gold-day" },
+    { "date": "2027-05-26", "dayType": "black-day" },
+    { "date": "2027-05-27", "dayType": "gold-day" },
+    { "date": "2027-05-28", "dayType": "black-day" },
+    { "date": "2027-05-31", "dayType": "holiday" },
+    { "date": "2027-06-01", "dayType": "gold-day" },
+    { "date": "2027-06-02", "dayType": "black-day" },
+    { "date": "2027-06-03", "dayType": "gold-day" },
+    { "date": "2027-06-04", "dayType": "black-day" },
+    { "date": "2027-06-07", "dayType": "gold-day" },
+    { "date": "2027-06-08", "dayType": "black-day" },
+    { "date": "2027-06-09", "dayType": "gold-day" },
+    { "date": "2027-06-10", "dayType": "black-day" },
+    { "date": "2027-06-11", "dayType": "gold-day" },
+    { "date": "2027-06-14", "dayType": "black-day" },
+    { "date": "2027-06-15", "dayType": "gold-day" },
+    { "date": "2027-06-16", "dayType": "black-day" },
+    { "date": "2027-06-17", "dayType": "early-release" }
+  ],
+  "dayTypes": [
+    {
+      "id": "black-day",
+      "displayName": "Black Day",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "14:25" },
+      "sharedEvents": [
+        { "id": "black-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:12" },
+        { "id": "black-b1", "canonicalName": "B1", "start": "08:15", "end": "09:28" },
+        { "id": "black-b2", "canonicalName": "B2", "start": "09:32", "end": "10:45" },
+        { "id": "black-b3", "canonicalName": "B3", "start": "11:54", "end": "13:07" },
+        { "id": "black-b4", "canonicalName": "B4", "start": "13:11", "end": "14:25" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "black-a-lunch", "canonicalName": "A Lunch", "start": "10:49", "end": "11:15" },
+          { "id": "black-advisory-after-a", "canonicalName": "Advisory", "start": "11:18", "end": "11:50" }
+        ],
+        "bLunch": [
+          { "id": "black-advisory-before-b", "canonicalName": "Advisory", "start": "10:49", "end": "11:21" },
+          { "id": "black-b-lunch", "canonicalName": "B Lunch", "start": "11:24", "end": "11:50" }
+        ]
+      }
+    },
+    {
+      "id": "gold-day",
+      "displayName": "Gold Day",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "14:25" },
+      "sharedEvents": [
+        { "id": "gold-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:12" },
+        { "id": "gold-g5", "canonicalName": "G5", "start": "08:15", "end": "09:28" },
+        { "id": "gold-g6", "canonicalName": "G6", "start": "09:32", "end": "10:45" },
+        { "id": "gold-g7", "canonicalName": "G7", "start": "11:54", "end": "13:07" },
+        { "id": "gold-g8", "canonicalName": "G8", "start": "13:11", "end": "14:25" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "gold-a-lunch", "canonicalName": "A Lunch", "start": "10:49", "end": "11:15" },
+          { "id": "gold-advisory-after-a", "canonicalName": "Advisory", "start": "11:18", "end": "11:50" }
+        ],
+        "bLunch": [
+          { "id": "gold-advisory-before-b", "canonicalName": "Advisory", "start": "10:49", "end": "11:21" },
+          { "id": "gold-b-lunch", "canonicalName": "B Lunch", "start": "11:24", "end": "11:50" }
+        ]
+      }
+    },
+    {
+      "id": "early-release",
+      "displayName": "Early Release",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "11:31" },
+      "sharedEvents": [
+        { "id": "er-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:05" },
+        { "id": "er-block-1", "canonicalName": "Block 1/5", "start": "08:09", "end": "08:41" },
+        { "id": "er-block-2", "canonicalName": "Block 2/6", "start": "08:45", "end": "09:17" },
+        { "id": "er-block-3", "canonicalName": "Block 3/7", "start": "09:21", "end": "09:53" },
+        { "id": "er-block-4", "canonicalName": "Block 4/8", "start": "09:57", "end": "10:29" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "er-a-lunch", "canonicalName": "A Lunch", "start": "10:33", "end": "10:58" },
+          { "id": "er-focus-after-a", "canonicalName": "Focus Time", "start": "11:01", "end": "11:31" }
+        ],
+        "bLunch": [
+          { "id": "er-focus-before-b", "canonicalName": "Focus Time", "start": "10:33", "end": "11:03" },
+          { "id": "er-b-lunch", "canonicalName": "B Lunch", "start": "11:06", "end": "11:31" }
+        ]
+      }
+    },
+    {
+      "id": "early-release-backup",
+      "displayName": "Early Release Backup",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "14:24" },
+      "sharedEvents": [
+        { "id": "erb-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:05" },
+        { "id": "erb-block-1-morning", "canonicalName": "Block 1/5", "start": "08:09", "end": "08:41" },
+        { "id": "erb-block-2-morning", "canonicalName": "Block 2/6", "start": "08:45", "end": "09:17" },
+        { "id": "erb-block-3-morning", "canonicalName": "Block 3/7", "start": "09:21", "end": "09:53" },
+        { "id": "erb-block-4-morning", "canonicalName": "Block 4/8", "start": "09:57", "end": "10:29" },
+        { "id": "erb-block-1-afternoon", "canonicalName": "Block 1/5", "start": "11:35", "end": "12:14" },
+        { "id": "erb-block-2-afternoon", "canonicalName": "Block 2/6", "start": "12:18", "end": "12:57" },
+        { "id": "erb-block-3-afternoon", "canonicalName": "Block 3/7", "start": "13:01", "end": "13:40" },
+        { "id": "erb-block-4-afternoon", "canonicalName": "Block 4/8", "start": "13:44", "end": "14:24" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "erb-a-lunch", "canonicalName": "A Lunch", "start": "10:33", "end": "10:58" },
+          { "id": "erb-focus-after-a", "canonicalName": "Focus Time", "start": "11:01", "end": "11:31" }
+        ],
+        "bLunch": [
+          { "id": "erb-focus-before-b", "canonicalName": "Focus Time", "start": "10:33", "end": "11:03" },
+          { "id": "erb-b-lunch", "canonicalName": "B Lunch", "start": "11:06", "end": "11:31" }
+        ]
+      }
+    },
+    {
+      "id": "two-hour-delay",
+      "displayName": "Two-Hour Delay",
+      "isStudentDay": true,
+      "schoolHours": { "start": "10:00", "end": "14:24" },
+      "sharedEvents": [
+        { "id": "2hd-advisory", "canonicalName": "Advisory", "start": "10:00", "end": "10:05" },
+        { "id": "2hd-block-1", "canonicalName": "Block 1/5", "start": "10:09", "end": "10:54" },
+        { "id": "2hd-block-2", "canonicalName": "Block 2/6", "start": "10:58", "end": "11:43" },
+        { "id": "2hd-block-3", "canonicalName": "Block 3/7", "start": "12:50", "end": "13:35" },
+        { "id": "2hd-block-4", "canonicalName": "Block 4/8", "start": "13:39", "end": "14:24" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "2hd-a-lunch", "canonicalName": "A Lunch", "start": "11:47", "end": "12:13" },
+          { "id": "2hd-focus-after-a", "canonicalName": "Focus Time", "start": "12:15", "end": "12:46" }
+        ],
+        "bLunch": [
+          { "id": "2hd-focus-before-b", "canonicalName": "Focus Time", "start": "11:47", "end": "12:17" },
+          { "id": "2hd-b-lunch", "canonicalName": "B Lunch", "start": "12:20", "end": "12:46" }
+        ]
+      }
+    },
+    {
+      "id": "morning-assembly",
+      "displayName": "Morning Assembly",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "14:25" },
+      "sharedEvents": [
+        { "id": "ma-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:05" },
+        { "id": "ma-assembly", "canonicalName": "Assembly", "start": "08:10", "end": "09:05" },
+        { "id": "ma-block-1", "canonicalName": "Block 1/5", "start": "09:09", "end": "10:09" },
+        { "id": "ma-block-2", "canonicalName": "Block 2/6", "start": "10:13", "end": "11:13" },
+        { "id": "ma-block-3", "canonicalName": "Block 3/7", "start": "12:20", "end": "13:20" },
+        { "id": "ma-block-4", "canonicalName": "Block 4/8", "start": "13:24", "end": "14:25" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "ma-a-lunch", "canonicalName": "A Lunch", "start": "11:17", "end": "11:43" },
+          { "id": "ma-advisory-after-a", "canonicalName": "Advisory", "start": "11:46", "end": "12:17" }
+        ],
+        "bLunch": [
+          { "id": "ma-advisory-before-b", "canonicalName": "Advisory", "start": "11:17", "end": "11:48" },
+          { "id": "ma-b-lunch", "canonicalName": "B Lunch", "start": "11:51", "end": "12:17" }
+        ]
+      }
+    },
+    {
+      "id": "afternoon-assembly",
+      "displayName": "Afternoon Assembly",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "14:15" },
+      "sharedEvents": [
+        { "id": "aa-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:11" },
+        { "id": "aa-block-1", "canonicalName": "Block 1/5", "start": "08:15", "end": "09:06" },
+        { "id": "aa-block-2", "canonicalName": "Block 2/6", "start": "09:10", "end": "10:01" },
+        { "id": "aa-block-3", "canonicalName": "Block 3/7", "start": "10:05", "end": "10:56" },
+        { "id": "aa-block-4", "canonicalName": "Block 4/8", "start": "12:05", "end": "12:56" },
+        { "id": "aa-assembly", "canonicalName": "Assembly", "start": "13:05", "end": "14:15" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "aa-a-lunch", "canonicalName": "A Lunch", "start": "11:00", "end": "11:26" },
+          { "id": "aa-focus-after-a", "canonicalName": "Focus Time", "start": "11:29", "end": "12:01" }
+        ],
+        "bLunch": [
+          { "id": "aa-focus-before-b", "canonicalName": "Focus Time", "start": "11:00", "end": "11:32" },
+          { "id": "aa-b-lunch", "canonicalName": "B Lunch", "start": "11:35", "end": "12:01" }
+        ]
+      }
+    },
+    {
+      "id": "extended-advisory",
+      "displayName": "Extended Advisory",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "14:24" },
+      "sharedEvents": [
+        { "id": "ea-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:37" },
+        { "id": "ea-block-1", "canonicalName": "Block 1/5", "start": "08:41", "end": "09:49" },
+        { "id": "ea-block-2", "canonicalName": "Block 2/6", "start": "09:53", "end": "11:01" },
+        { "id": "ea-block-3", "canonicalName": "Block 3/7", "start": "12:04", "end": "13:12" },
+        { "id": "ea-block-4", "canonicalName": "Block 4/8", "start": "13:16", "end": "14:24" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "ea-a-lunch", "canonicalName": "A Lunch", "start": "11:04", "end": "11:29" },
+          { "id": "ea-advisory-after-a", "canonicalName": "Advisory", "start": "11:32", "end": "12:00" }
+        ],
+        "bLunch": [
+          { "id": "ea-advisory-before-b", "canonicalName": "Advisory", "start": "11:04", "end": "11:32" },
+          { "id": "ea-b-lunch", "canonicalName": "B Lunch", "start": "11:35", "end": "12:00" }
+        ]
+      }
+    },
+    {
+      "id": "dismissal-1250",
+      "displayName": "12:50 Dismissal",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "12:50" },
+      "sharedEvents": [
+        { "id": "1250-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:05" },
+        { "id": "1250-block-1", "canonicalName": "Block 1/5", "start": "08:11", "end": "09:00" },
+        { "id": "1250-block-2", "canonicalName": "Block 2/6", "start": "09:04", "end": "09:55" },
+        { "id": "1250-block-3", "canonicalName": "Block 3/7", "start": "09:59", "end": "10:50" },
+        { "id": "1250-block-4", "canonicalName": "Block 4/8", "start": "11:59", "end": "12:50" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "1250-a-lunch", "canonicalName": "A Lunch", "start": "10:55", "end": "11:20" },
+          { "id": "1250-focus-after-a", "canonicalName": "Focus Time", "start": "11:23", "end": "11:55" }
+        ],
+        "bLunch": [
+          { "id": "1250-focus-before-b", "canonicalName": "Focus Time", "start": "10:55", "end": "11:26" },
+          { "id": "1250-b-lunch", "canonicalName": "B Lunch", "start": "11:29", "end": "11:55" }
+        ]
+      }
+    },
+    {
+      "id": "two-hour-delay-normal-advisory",
+      "displayName": "Two-Hour Delay with Normal Advisory",
+      "isStudentDay": true,
+      "schoolHours": { "start": "10:00", "end": "14:24" },
+      "sharedEvents": [
+        { "id": "2hna-advisory", "canonicalName": "Advisory", "start": "10:00", "end": "10:16" },
+        { "id": "2hna-block-1", "canonicalName": "Block 1/5", "start": "10:20", "end": "11:02" },
+        { "id": "2hna-block-2", "canonicalName": "Block 2/6", "start": "11:06", "end": "11:48" },
+        { "id": "2hna-block-3", "canonicalName": "Block 3/7", "start": "12:55", "end": "13:37" },
+        { "id": "2hna-block-4", "canonicalName": "Block 4/8", "start": "13:41", "end": "14:24" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "2hna-a-lunch", "canonicalName": "A Lunch", "start": "11:52", "end": "12:18" },
+          { "id": "2hna-focus-after-a", "canonicalName": "Focus Time", "start": "12:22", "end": "12:52" }
+        ],
+        "bLunch": [
+          { "id": "2hna-focus-before-b", "canonicalName": "Focus Time", "start": "11:52", "end": "12:22" },
+          { "id": "2hna-b-lunch", "canonicalName": "B Lunch", "start": "12:25", "end": "12:51" }
+        ]
+      }
+    },
+    {
+      "id": "afternoon-assembly-30-minute",
+      "displayName": "30-Minute Afternoon Assembly",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "14:15" },
+      "sharedEvents": [
+        { "id": "aa30-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:12" },
+        { "id": "aa30-block-1", "canonicalName": "Block 1/5", "start": "08:16", "end": "09:18" },
+        { "id": "aa30-block-2", "canonicalName": "Block 2/6", "start": "09:22", "end": "10:24" },
+        { "id": "aa30-block-3", "canonicalName": "Block 3/7", "start": "11:33", "end": "12:35" },
+        { "id": "aa30-block-4", "canonicalName": "Block 4/8", "start": "12:39", "end": "13:41" },
+        { "id": "aa30-assembly", "canonicalName": "Assembly", "start": "13:45", "end": "14:15" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "aa30-a-lunch", "canonicalName": "A Lunch", "start": "10:28", "end": "10:54" },
+          { "id": "aa30-focus-after-a", "canonicalName": "Focus Time", "start": "10:58", "end": "11:29" }
+        ],
+        "bLunch": [
+          { "id": "aa30-focus-before-b", "canonicalName": "Focus Time", "start": "10:28", "end": "11:00" },
+          { "id": "aa30-b-lunch", "canonicalName": "B Lunch", "start": "11:03", "end": "11:29" }
+        ]
+      }
+    },
+    {
+      "id": "one-hour-delay",
+      "displayName": "One-Hour Delay",
+      "isStudentDay": true,
+      "schoolHours": { "start": "09:00", "end": "14:24" },
+      "sharedEvents": [
+        { "id": "1hd-advisory", "canonicalName": "Advisory", "start": "09:00", "end": "09:05" },
+        { "id": "1hd-block-1", "canonicalName": "Block 1/5", "start": "09:09", "end": "10:09" },
+        { "id": "1hd-block-2", "canonicalName": "Block 2/6", "start": "10:13", "end": "11:13" },
+        { "id": "1hd-block-3", "canonicalName": "Block 3/7", "start": "12:21", "end": "13:20" },
+        { "id": "1hd-block-4", "canonicalName": "Block 4/8", "start": "13:24", "end": "14:24" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "1hd-a-lunch", "canonicalName": "A Lunch", "start": "11:17", "end": "11:43" },
+          { "id": "1hd-advisory-after-a", "canonicalName": "Advisory", "start": "11:46", "end": "12:17" }
+        ],
+        "bLunch": [
+          { "id": "1hd-advisory-before-b", "canonicalName": "Advisory", "start": "11:17", "end": "11:48" },
+          { "id": "1hd-b-lunch", "canonicalName": "B Lunch", "start": "11:51", "end": "12:17" }
+        ]
+      }
+    },
+    {
+      "id": "two-hour-delay-teen-issues",
+      "displayName": "Two-Hour Delay - Teen Issues Day",
+      "isStudentDay": true,
+      "schoolHours": { "start": "10:00", "end": "14:24" },
+      "sharedEvents": [
+        { "id": "2hti-advisory", "canonicalName": "Advisory", "start": "10:00", "end": "10:05" },
+        { "id": "2hti-session-1", "canonicalName": "Session 1", "start": "10:09", "end": "10:54" },
+        { "id": "2hti-session-2", "canonicalName": "Session 2", "start": "10:58", "end": "11:43" },
+        { "id": "2hti-session-3", "canonicalName": "Session 3", "start": "12:50", "end": "13:35" },
+        { "id": "2hti-session-4", "canonicalName": "Session 4", "start": "13:39", "end": "14:24" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "2hti-a-lunch", "canonicalName": "A Lunch", "start": "11:47", "end": "12:13" },
+          { "id": "2hti-advisory-after-a", "canonicalName": "Advisory", "start": "12:15", "end": "12:47" }
+        ],
+        "bLunch": [
+          { "id": "2hti-advisory-before-b", "canonicalName": "Advisory", "start": "11:47", "end": "12:17" },
+          { "id": "2hti-b-lunch", "canonicalName": "B Lunch", "start": "12:20", "end": "12:46" }
+        ]
+      }
+    },
+    {
+      "id": "winter-carnival-early-release",
+      "displayName": "Winter Carnival Early Release",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "14:24" },
+      "sharedEvents": [
+        { "id": "wcer-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:05" },
+        { "id": "wcer-block-1", "canonicalName": "Block 1/5", "start": "08:09", "end": "08:41" },
+        { "id": "wcer-block-2", "canonicalName": "Block 2/6", "start": "08:45", "end": "09:17" },
+        { "id": "wcer-block-3", "canonicalName": "Block 3/7", "start": "09:21", "end": "09:53" },
+        { "id": "wcer-block-4", "canonicalName": "Block 4/8", "start": "09:57", "end": "10:29" },
+        { "id": "wcer-reset", "canonicalName": "Advisory", "start": "11:34", "end": "11:40" },
+        { "id": "wcer-afternoon", "canonicalName": "Winter Carnival", "start": "11:40", "end": "14:24" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "wcer-a-lunch", "canonicalName": "A Lunch", "start": "10:33", "end": "10:58" },
+          { "id": "wcer-focus-after-a", "canonicalName": "Focus Time", "start": "11:01", "end": "11:31" }
+        ],
+        "bLunch": [
+          { "id": "wcer-focus-before-b", "canonicalName": "Focus Time", "start": "10:33", "end": "11:03" },
+          { "id": "wcer-b-lunch", "canonicalName": "B Lunch", "start": "11:06", "end": "11:31" }
+        ]
+      }
+    },
+    {
+      "id": "end-of-year-assembly",
+      "displayName": "End-of-Year Assembly",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "14:24" },
+      "sharedEvents": [
+        { "id": "eoy-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:05" },
+        { "id": "eoy-block-1", "canonicalName": "Block 1", "start": "08:08", "end": "09:20" },
+        { "id": "eoy-block-2", "canonicalName": "Block 2", "start": "09:23", "end": "10:35" },
+        { "id": "eoy-assembly", "canonicalName": "End-of-Year Assembly", "start": "11:45", "end": "14:24" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "eoy-a-lunch", "canonicalName": "A Lunch", "start": "10:38", "end": "11:04" },
+          { "id": "eoy-focus-after-a", "canonicalName": "Focus Time", "start": "11:06", "end": "11:31" }
+        ],
+        "bLunch": [
+          { "id": "eoy-focus-before-b", "canonicalName": "Focus Time", "start": "10:38", "end": "11:04" },
+          { "id": "eoy-b-lunch", "canonicalName": "B Lunch", "start": "11:08", "end": "11:34" }
+        ]
+      }
+    },
+    {
+      "id": "short-assembly-15-minute",
+      "displayName": "15-Minute Short Assembly",
+      "isStudentDay": true,
+      "schoolHours": { "start": "07:55", "end": "14:25" },
+      "sharedEvents": [
+        { "id": "sa15-advisory", "canonicalName": "Advisory", "start": "08:00", "end": "08:12" },
+        { "id": "sa15-block-1", "canonicalName": "Block 1/5", "start": "08:16", "end": "09:18" },
+        { "id": "sa15-block-2", "canonicalName": "Block 2/6", "start": "09:22", "end": "10:24" },
+        { "id": "sa15-block-3", "canonicalName": "Block 3/7", "start": "11:33", "end": "12:35" },
+        { "id": "sa15-block-4", "canonicalName": "Block 4/8", "start": "12:39", "end": "13:41" },
+        { "id": "sa15-assembly", "canonicalName": "Assembly", "start": "14:10", "end": "14:25" }
+      ],
+      "lunchBranches": {
+        "aLunch": [
+          { "id": "sa15-a-lunch", "canonicalName": "A Lunch", "start": "10:28", "end": "10:54" },
+          { "id": "sa15-focus-after-a", "canonicalName": "Focus Time", "start": "10:58", "end": "11:29" }
+        ],
+        "bLunch": [
+          { "id": "sa15-focus-before-b", "canonicalName": "Focus Time", "start": "10:28", "end": "11:00" },
+          { "id": "sa15-b-lunch", "canonicalName": "B Lunch", "start": "11:03", "end": "11:29" }
+        ]
+      }
+    },
+    {
+      "id": "holiday",
+      "displayName": "Holiday - No School",
+      "isStudentDay": false,
+      "sharedEvents": []
+    },
+    {
+      "id": "vacation",
+      "displayName": "Vacation - No School",
+      "isStudentDay": false,
+      "sharedEvents": []
+    },
+    {
+      "id": "staff-in-service-comp-day",
+      "displayName": "Staff In-Service Comp Day - No School",
+      "isStudentDay": false,
+      "sharedEvents": []
+    },
+    {
+      "id": "teacher-workshop",
+      "displayName": "Teacher Workshop",
+      "isStudentDay": true,
+      "schoolHours": { "start": "08:00", "end": "15:00" },
+      "sharedEvents": [
+        { "id": "teacher-workshop-status", "canonicalName": "No School - Teacher Workshop", "start": "08:00", "end": "15:00" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+name: Validate schedule
+
+on:
+  pull_request:
+    paths:
+      - schedule.json
+      - Schedule.schema.json
+      - Scripts/validate_schedule.py
+      - .github/workflows/validate-schedule.yml
+  push:
+    branches: [main]
+    paths:
+      - schedule.json
+      - Schedule.schema.json
+      - Scripts/validate_schedule.py
+      - .github/workflows/validate-schedule.yml
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate schedule
+        run: python3 Scripts/validate_schedule.py schedule.json
+
