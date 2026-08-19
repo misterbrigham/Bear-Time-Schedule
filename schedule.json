@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "configurationVersion": "2026-27-calendar-4",
-  "updatedAt": "2026-08-19T16:25:00Z",
+  "configurationVersion": "2026-27-calendar-5",
+  "updatedAt": "2026-08-19T17:10:00Z",
   "timeZoneIdentifier": "America/New_York",
   "bellOffsetSeconds": 0,
   "metadata": {
@@ -43,7 +43,7 @@
     },
     {
       "date": "2026-08-31",
-      "dayType": "black-day"
+      "dayType": "orientation-day"
     },
     {
       "date": "2026-09-01",
@@ -2211,6 +2211,119 @@
         ]
       }
     },
+    {
+  "id": "orientation-day",
+  "displayName": "Orientation Day",
+  "isStudentDay": true,
+  "schoolHours": {
+    "start": "07:55",
+    "end": "14:30"
+  },
+  "sharedEvents": [
+    {
+      "id": "orientation-freshman-advisory",
+      "canonicalName": "Freshman Advisory",
+      "start": "07:55",
+      "end": "08:10"
+    },
+    {
+      "id": "orientation-class-meeting",
+      "canonicalName": "Class Meeting",
+      "start": "08:10",
+      "end": "08:30"
+    },
+    {
+      "id": "orientation-advisee-activities-morning",
+      "canonicalName": "Advisee Activities",
+      "start": "08:30",
+      "end": "09:15"
+    },
+    {
+      "id": "orientation-field-games",
+      "canonicalName": "Field Games",
+      "start": "09:15",
+      "end": "10:15"
+    },
+    {
+      "id": "orientation-class-picture",
+      "canonicalName": "Class Picture",
+      "start": "10:30",
+      "end": "11:00"
+    },
+    {
+      "id": "orientation-lunch",
+      "canonicalName": "Lunch",
+      "start": "11:10",
+      "end": "11:40"
+    },
+    {
+      "id": "orientation-advisee-activities-afternoon",
+      "canonicalName": "Advisee Activities",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "id": "orientation-b1",
+      "canonicalName": "B1",
+      "start": "12:35",
+      "end": "12:42"
+    },
+    {
+      "id": "orientation-b2",
+      "canonicalName": "B2",
+      "start": "12:45",
+      "end": "12:52"
+    },
+    {
+      "id": "orientation-b3",
+      "canonicalName": "B3",
+      "start": "12:55",
+      "end": "13:02"
+    },
+    {
+      "id": "orientation-b4",
+      "canonicalName": "B4",
+      "start": "13:05",
+      "end": "13:12"
+    },
+    {
+      "id": "orientation-g5",
+      "canonicalName": "G5",
+      "start": "13:15",
+      "end": "13:22"
+    },
+    {
+      "id": "orientation-g6",
+      "canonicalName": "G6",
+      "start": "13:25",
+      "end": "13:32"
+    },
+    {
+      "id": "orientation-g7",
+      "canonicalName": "G7",
+      "start": "13:35",
+      "end": "13:42"
+    },
+    {
+      "id": "orientation-g8",
+      "canonicalName": "G8",
+      "start": "13:45",
+      "end": "13:52"
+    },
+    {
+      "id": "orientation-advisee-check-in",
+      "canonicalName": "Advisee Check-In",
+      "start": "13:52",
+      "end": "14:15"
+    },
+    {
+      "id": "orientation-ice-cream-social",
+      "canonicalName": "Ice Cream Social",
+      "start": "14:15",
+      "end": "14:30"
+    }
+  ]
+},
     {
       "id": "holiday",
       "displayName": "Holiday - No School",
