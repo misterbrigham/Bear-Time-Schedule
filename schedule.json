@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "configurationVersion": "2026-27-calendar-5",
-  "updatedAt": "2026-08-19T17:10:00Z",
+  "configurationVersion": "2026-27-calendar-6",
+  "updatedAt": "2026-08-20T00:15:00Z",
   "timeZoneIdentifier": "America/New_York",
   "bellOffsetSeconds": 0,
   "metadata": {
     "status": "2026-2027-production-calendar",
-    "notes": "Bell patterns and Black/Gold assignments are confirmed for 2026-2027. Beta Black and Beta Gold test days run August 17-21, 2026. June dates may change based on emergency-day usage."
+    "notes": "Bell patterns and Black/Gold assignments are confirmed for 2026-2027. Beta Black and Beta Gold test days run August 17-21, 2026. June dates may change based on emergency-day usage. August 30, 2027 is a provisional Orientation Day for end-of-calendar continuity."
   },
   "dateAssignments": [
     {
@@ -876,6 +876,10 @@
     {
       "date": "2027-06-17",
       "dayType": "early-release"
+    },
+    {
+      "date": "2027-08-30",
+      "dayType": "orientation-day"
     }
   ],
   "dayTypes": [
