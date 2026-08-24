@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "configurationVersion": "2026-27-calendar-6",
-  "updatedAt": "2026-08-20T00:15:00Z",
+  "configurationVersion": "2026-27-calendar-7",
+  "updatedAt": "2026-08-24T22:57:43Z",
   "timeZoneIdentifier": "America/New_York",
   "bellOffsetSeconds": 0,
   "metadata": {
@@ -889,7 +889,7 @@
       "isStudentDay": true,
       "schoolHours": {
         "start": "07:55",
-        "end": "14:25"
+        "end": "14:20"
       },
       "sharedEvents": [
         {
@@ -902,25 +902,25 @@
           "id": "black-b1",
           "canonicalName": "B1",
           "start": "08:15",
-          "end": "09:28"
+          "end": "09:27"
         },
         {
           "id": "black-b2",
           "canonicalName": "B2",
-          "start": "09:32",
-          "end": "10:45"
+          "start": "09:31",
+          "end": "10:43"
         },
         {
           "id": "black-b3",
           "canonicalName": "B3",
-          "start": "11:54",
-          "end": "13:07"
+          "start": "11:52",
+          "end": "13:04"
         },
         {
           "id": "black-b4",
           "canonicalName": "B4",
-          "start": "13:11",
-          "end": "14:25"
+          "start": "13:08",
+          "end": "14:20"
         }
       ],
       "lunchBranches": {
@@ -928,28 +928,28 @@
           {
             "id": "black-a-lunch",
             "canonicalName": "A Lunch",
-            "start": "10:49",
-            "end": "11:15"
+            "start": "10:47",
+            "end": "11:13"
           },
           {
             "id": "black-advisory-after-a",
             "canonicalName": "Advisory",
-            "start": "11:18",
-            "end": "11:50"
+            "start": "11:16",
+            "end": "11:48"
           }
         ],
         "bLunch": [
           {
             "id": "black-advisory-before-b",
             "canonicalName": "Advisory",
-            "start": "10:49",
-            "end": "11:21"
+            "start": "10:47",
+            "end": "11:19"
           },
           {
             "id": "black-b-lunch",
             "canonicalName": "B Lunch",
-            "start": "11:24",
-            "end": "11:50"
+            "start": "11:22",
+            "end": "11:48"
           }
         ]
       }
@@ -960,7 +960,7 @@
       "isStudentDay": true,
       "schoolHours": {
         "start": "07:55",
-        "end": "14:25"
+        "end": "14:20"
       },
       "sharedEvents": [
         {
@@ -973,25 +973,25 @@
           "id": "gold-g5",
           "canonicalName": "G5",
           "start": "08:15",
-          "end": "09:28"
+          "end": "09:27"
         },
         {
           "id": "gold-g6",
           "canonicalName": "G6",
-          "start": "09:32",
-          "end": "10:45"
+          "start": "09:31",
+          "end": "10:43"
         },
         {
           "id": "gold-g7",
           "canonicalName": "G7",
-          "start": "11:54",
-          "end": "13:07"
+          "start": "11:52",
+          "end": "13:04"
         },
         {
           "id": "gold-g8",
           "canonicalName": "G8",
-          "start": "13:11",
-          "end": "14:25"
+          "start": "13:08",
+          "end": "14:20"
         }
       ],
       "lunchBranches": {
@@ -999,28 +999,28 @@
           {
             "id": "gold-a-lunch",
             "canonicalName": "A Lunch",
-            "start": "10:49",
-            "end": "11:15"
+            "start": "10:47",
+            "end": "11:13"
           },
           {
             "id": "gold-advisory-after-a",
             "canonicalName": "Advisory",
-            "start": "11:18",
-            "end": "11:50"
+            "start": "11:16",
+            "end": "11:48"
           }
         ],
         "bLunch": [
           {
             "id": "gold-advisory-before-b",
             "canonicalName": "Advisory",
-            "start": "10:49",
-            "end": "11:21"
+            "start": "10:47",
+            "end": "11:19"
           },
           {
             "id": "gold-b-lunch",
             "canonicalName": "B Lunch",
-            "start": "11:24",
-            "end": "11:50"
+            "start": "11:22",
+            "end": "11:48"
           }
         ]
       }
@@ -1031,7 +1031,7 @@
       "isStudentDay": true,
       "schoolHours": {
         "start": "07:55",
-        "end": "14:25"
+        "end": "14:20"
       },
       "sharedEvents": [
         {
@@ -1044,25 +1044,25 @@
           "id": "black-b1",
           "canonicalName": "B1",
           "start": "08:15",
-          "end": "09:28"
+          "end": "09:27"
         },
         {
           "id": "black-b2",
           "canonicalName": "B2",
-          "start": "09:32",
-          "end": "10:45"
+          "start": "09:31",
+          "end": "10:43"
         },
         {
           "id": "black-b3",
           "canonicalName": "B3",
-          "start": "11:54",
-          "end": "13:07"
+          "start": "11:52",
+          "end": "13:04"
         },
         {
           "id": "black-b4",
           "canonicalName": "B4",
-          "start": "13:11",
-          "end": "14:25"
+          "start": "13:08",
+          "end": "14:20"
         }
       ],
       "lunchBranches": {
@@ -1070,28 +1070,28 @@
           {
             "id": "black-a-lunch",
             "canonicalName": "A Lunch",
-            "start": "10:49",
-            "end": "11:15"
+            "start": "10:47",
+            "end": "11:13"
           },
           {
             "id": "black-advisory-after-a",
             "canonicalName": "Advisory",
-            "start": "11:18",
-            "end": "11:50"
+            "start": "11:16",
+            "end": "11:48"
           }
         ],
         "bLunch": [
           {
             "id": "black-advisory-before-b",
             "canonicalName": "Advisory",
-            "start": "10:49",
-            "end": "11:21"
+            "start": "10:47",
+            "end": "11:19"
           },
           {
             "id": "black-b-lunch",
             "canonicalName": "B Lunch",
-            "start": "11:24",
-            "end": "11:50"
+            "start": "11:22",
+            "end": "11:48"
           }
         ]
       }
@@ -1102,7 +1102,7 @@
       "isStudentDay": true,
       "schoolHours": {
         "start": "07:55",
-        "end": "14:25"
+        "end": "14:20"
       },
       "sharedEvents": [
         {
@@ -1115,25 +1115,25 @@
           "id": "gold-g5",
           "canonicalName": "G5",
           "start": "08:15",
-          "end": "09:28"
+          "end": "09:27"
         },
         {
           "id": "gold-g6",
           "canonicalName": "G6",
-          "start": "09:32",
-          "end": "10:45"
+          "start": "09:31",
+          "end": "10:43"
         },
         {
           "id": "gold-g7",
           "canonicalName": "G7",
-          "start": "11:54",
-          "end": "13:07"
+          "start": "11:52",
+          "end": "13:04"
         },
         {
           "id": "gold-g8",
           "canonicalName": "G8",
-          "start": "13:11",
-          "end": "14:25"
+          "start": "13:08",
+          "end": "14:20"
         }
       ],
       "lunchBranches": {
@@ -1141,28 +1141,28 @@
           {
             "id": "gold-a-lunch",
             "canonicalName": "A Lunch",
-            "start": "10:49",
-            "end": "11:15"
+            "start": "10:47",
+            "end": "11:13"
           },
           {
             "id": "gold-advisory-after-a",
             "canonicalName": "Advisory",
-            "start": "11:18",
-            "end": "11:50"
+            "start": "11:16",
+            "end": "11:48"
           }
         ],
         "bLunch": [
           {
             "id": "gold-advisory-before-b",
             "canonicalName": "Advisory",
-            "start": "10:49",
-            "end": "11:21"
+            "start": "10:47",
+            "end": "11:19"
           },
           {
             "id": "gold-b-lunch",
             "canonicalName": "B Lunch",
-            "start": "11:24",
-            "end": "11:50"
+            "start": "11:22",
+            "end": "11:48"
           }
         ]
       }
@@ -1244,7 +1244,7 @@
       "isStudentDay": true,
       "schoolHours": {
         "start": "07:55",
-        "end": "14:24"
+        "end": "14:20"
       },
       "sharedEvents": [
         {
@@ -1281,25 +1281,25 @@
           "id": "erb-block-1-afternoon",
           "canonicalName": "Block 1/5",
           "start": "11:35",
-          "end": "12:14"
+          "end": "12:13"
         },
         {
           "id": "erb-block-2-afternoon",
           "canonicalName": "Block 2/6",
-          "start": "12:18",
-          "end": "12:57"
+          "start": "12:17",
+          "end": "12:55"
         },
         {
           "id": "erb-block-3-afternoon",
           "canonicalName": "Block 3/7",
-          "start": "13:01",
-          "end": "13:40"
+          "start": "12:59",
+          "end": "13:37"
         },
         {
           "id": "erb-block-4-afternoon",
           "canonicalName": "Block 4/8",
-          "start": "13:44",
-          "end": "14:24"
+          "start": "13:41",
+          "end": "14:20"
         }
       ],
       "lunchBranches": {
@@ -1339,7 +1339,7 @@
       "isStudentDay": true,
       "schoolHours": {
         "start": "10:00",
-        "end": "14:24"
+        "end": "14:20"
       },
       "sharedEvents": [
         {
@@ -1352,25 +1352,25 @@
           "id": "2hd-block-1",
           "canonicalName": "Block 1/5",
           "start": "10:09",
-          "end": "10:54"
+          "end": "10:53"
         },
         {
           "id": "2hd-block-2",
           "canonicalName": "Block 2/6",
-          "start": "10:58",
-          "end": "11:43"
+          "start": "10:57",
+          "end": "11:41"
         },
         {
           "id": "2hd-block-3",
           "canonicalName": "Block 3/7",
-          "start": "12:50",
-          "end": "13:35"
+          "start": "12:48",
+          "end": "13:32"
         },
         {
           "id": "2hd-block-4",
           "canonicalName": "Block 4/8",
-          "start": "13:39",
-          "end": "14:24"
+          "start": "13:36",
+          "end": "14:20"
         }
       ],
       "lunchBranches": {
@@ -1378,28 +1378,28 @@
           {
             "id": "2hd-a-lunch",
             "canonicalName": "A Lunch",
-            "start": "11:47",
-            "end": "12:13"
+            "start": "11:45",
+            "end": "12:11"
           },
           {
             "id": "2hd-focus-after-a",
             "canonicalName": "Focus Time",
-            "start": "12:15",
-            "end": "12:46"
+            "start": "12:13",
+            "end": "12:44"
           }
         ],
         "bLunch": [
           {
             "id": "2hd-focus-before-b",
             "canonicalName": "Focus Time",
-            "start": "11:47",
-            "end": "12:17"
+            "start": "11:45",
+            "end": "12:16"
           },
           {
             "id": "2hd-b-lunch",
             "canonicalName": "B Lunch",
-            "start": "12:20",
-            "end": "12:46"
+            "start": "12:18",
+            "end": "12:44"
           }
         ]
       }
@@ -1410,7 +1410,7 @@
       "isStudentDay": true,
       "schoolHours": {
         "start": "07:55",
-        "end": "14:25"
+        "end": "14:20"
       },
       "sharedEvents": [
         {
@@ -1429,25 +1429,25 @@
           "id": "ma-block-1",
           "canonicalName": "Block 1/5",
           "start": "09:09",
-          "end": "10:09"
+          "end": "10:08"
         },
         {
           "id": "ma-block-2",
           "canonicalName": "Block 2/6",
-          "start": "10:13",
-          "end": "11:13"
+          "start": "10:12",
+          "end": "11:11"
         },
         {
           "id": "ma-block-3",
           "canonicalName": "Block 3/7",
-          "start": "12:20",
-          "end": "13:20"
+          "start": "12:18",
+          "end": "13:17"
         },
         {
           "id": "ma-block-4",
           "canonicalName": "Block 4/8",
-          "start": "13:24",
-          "end": "14:25"
+          "start": "13:21",
+          "end": "14:20"
         }
       ],
       "lunchBranches": {
@@ -1455,28 +1455,28 @@
           {
             "id": "ma-a-lunch",
             "canonicalName": "A Lunch",
-            "start": "11:17",
-            "end": "11:43"
+            "start": "11:15",
+            "end": "11:41"
           },
           {
             "id": "ma-advisory-after-a",
             "canonicalName": "Advisory",
-            "start": "11:46",
-            "end": "12:17"
+            "start": "11:44",
+            "end": "12:15"
           }
         ],
         "bLunch": [
           {
             "id": "ma-advisory-before-b",
             "canonicalName": "Advisory",
-            "start": "11:17",
-            "end": "11:48"
+            "start": "11:15",
+            "end": "11:46"
           },
           {
             "id": "ma-b-lunch",
             "canonicalName": "B Lunch",
-            "start": "11:51",
-            "end": "12:17"
+            "start": "11:49",
+            "end": "12:15"
           }
         ]
       }
@@ -1564,7 +1564,7 @@
       "isStudentDay": true,
       "schoolHours": {
         "start": "07:55",
-        "end": "14:24"
+        "end": "14:20"
       },
       "sharedEvents": [
         {
@@ -1577,25 +1577,25 @@
           "id": "ea-block-1",
           "canonicalName": "Block 1/5",
           "start": "08:41",
-          "end": "09:49"
+          "end": "09:48"
         },
         {
           "id": "ea-block-2",
           "canonicalName": "Block 2/6",
-          "start": "09:53",
-          "end": "11:01"
+          "start": "09:52",
+          "end": "10:59"
         },
         {
           "id": "ea-block-3",
           "canonicalName": "Block 3/7",
-          "start": "12:04",
-          "end": "13:12"
+          "start": "12:02",
+          "end": "13:09"
         },
         {
           "id": "ea-block-4",
           "canonicalName": "Block 4/8",
-          "start": "13:16",
-          "end": "14:24"
+          "start": "13:13",
+          "end": "14:20"
         }
       ],
       "lunchBranches": {
@@ -1603,28 +1603,28 @@
           {
             "id": "ea-a-lunch",
             "canonicalName": "A Lunch",
-            "start": "11:04",
-            "end": "11:29"
+            "start": "11:02",
+            "end": "11:27"
           },
           {
             "id": "ea-advisory-after-a",
             "canonicalName": "Advisory",
-            "start": "11:32",
-            "end": "12:00"
+            "start": "11:30",
+            "end": "11:58"
           }
         ],
         "bLunch": [
           {
             "id": "ea-advisory-before-b",
             "canonicalName": "Advisory",
-            "start": "11:04",
-            "end": "11:32"
+            "start": "11:02",
+            "end": "11:30"
           },
           {
             "id": "ea-b-lunch",
             "canonicalName": "B Lunch",
-            "start": "11:35",
-            "end": "12:00"
+            "start": "11:32",
+            "end": "11:58"
           }
         ]
       }
