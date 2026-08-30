@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "configurationVersion": "2026-27-calendar-7",
-  "updatedAt": "2026-08-24T22:57:43Z",
+  "configurationVersion": "2026-27-calendar-8",
+  "updatedAt": "2026-08-30T16:10:00Z",
   "timeZoneIdentifier": "America/New_York",
   "bellOffsetSeconds": 0,
   "metadata": {
     "status": "2026-2027-production-calendar",
-    "notes": "Bell patterns and Black/Gold assignments are confirmed for 2026-2027. Beta Black and Beta Gold test days run August 17-21, 2026. June dates may change based on emergency-day usage. August 30, 2027 is a provisional Orientation Day for end-of-calendar continuity."
+    "notes": "Bell patterns and Black/Gold assignments are confirmed for 2026-2027. Beta Black and Beta Gold test days run August 17-21, 2026. Orientation Day on August 31, 2026 begins at 8:00 AM. June dates may change based on emergency-day usage. August 30, 2027 is a provisional Orientation Day for end-of-calendar continuity."
   },
   "dateAssignments": [
     {
@@ -2220,14 +2220,14 @@
   "displayName": "Orientation Day",
   "isStudentDay": true,
   "schoolHours": {
-    "start": "07:55",
+    "start": "08:00",
     "end": "14:30"
   },
   "sharedEvents": [
     {
       "id": "orientation-freshman-advisory",
       "canonicalName": "Freshman Advisory",
-      "start": "07:55",
+      "start": "08:00",
       "end": "08:10"
     },
     {
