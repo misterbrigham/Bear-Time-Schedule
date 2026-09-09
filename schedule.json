@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "configurationVersion": "2026-27-calendar-10",
-  "updatedAt": "2026-09-08T13:12:57Z",
+  "configurationVersion": "2026-27-calendar-11",
+  "updatedAt": "2026-09-09T14:20:04Z",
   "timeZoneIdentifier": "America/New_York",
-  "bellOffsetSeconds": 0,
+  "bellOffsetSeconds": -15,
   "metadata": {
     "status": "2026-2027-production-calendar",
     "notes": "Bell patterns and Black/Gold assignments are confirmed for 2026-2027. Beta Black and Beta Gold test days run August 17-21, 2026. Orientation Day on August 31, 2026 begins at 8:00 AM. June dates may change based on emergency-day usage. August 30, 2027 is a provisional Orientation Day for end-of-calendar continuity."
